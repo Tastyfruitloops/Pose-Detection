@@ -14,7 +14,7 @@ https://github.com/WongKinYiu/yolov7
 Через cmd запустите команду 
 
 ```
-python detect.py --weights weights\\best.pt --conf {confidence} --source input\{filename} --view-img
+python detect.py --weights weights\best.pt --conf {confidence} --source input\{filename} --view-img
 ```
 Здесь confidence - это число в интервале от 0 до 1, рекомендуемое значение 0.5-0.6
 
